@@ -1,0 +1,6 @@
+{
+  "appId": "resume",
+  "applicationRoot": "web",
+  "outputPath": "web/dist",
+  "buildCommand": "pnpm build"
+}
